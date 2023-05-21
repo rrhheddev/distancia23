@@ -5,7 +5,7 @@
  *
  * @package TareaDAW05
  * @author José Eugenio González Claros
- * @version 1.0
+ * @version 1.1 Modificación de versión
  * @since Versión 1.0
  * @access public
  * @see https://www.juntadeandalucia.es

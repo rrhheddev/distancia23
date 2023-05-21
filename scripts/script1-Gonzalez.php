@@ -5,7 +5,7 @@
  * Script con funciones auxiliares para la gestión de productos de un pedido.
  *
  * @author José Eugenio González Claros
- * @version 1.0
+ * @version 1.1 Modificación de versión
  * @since Versión 1.0
  * @access public
  * 
